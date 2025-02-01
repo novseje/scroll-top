@@ -1,4 +1,4 @@
-<div id="wpfront-scroll-top-container"><img src="/blog/wp-content/themes/soledad-child/images/scroll-top.png" alt="" title="" /></div>
+<div id="wpfront-scroll-top-container"><img src="/wp-content/themes/yourtheme-child/images/scroll-top.png" alt="" title="" /></div>
 <style>
     #wpfront-scroll-top-container {display:none;position:fixed;cursor:pointer;z-index:9999;opacity:0;right: 20px;bottom: 20px;transition: opacity 0.2s linear;}
     #wpfront-scroll-top-container img {width: auto;height: auto;}
